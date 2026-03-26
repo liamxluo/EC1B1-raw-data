@@ -6,7 +6,7 @@ Inside this repo is the raw data used in the analysis for a project replicates I
 Data Source: _[International Monetary Fund’s 'International Financial Statistics'](https://data.imf.org/en?sk=4c514d48-b6ba-49ed-8ab9-52b0c1a0179b) website_
 
 
-## Data Structure as follow:
+## Structure as follow:
 ```output
 /
 ├── README.md
