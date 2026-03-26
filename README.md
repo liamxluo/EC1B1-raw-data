@@ -3,8 +3,7 @@
 ```output
 /
 ├── README.md
-└── data/
-    └── raw/
+└── raw/
         ├── raw_data_uk/
         │   ├── uk_er.csv
         │   ├── uk_cpi.csv
