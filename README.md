@@ -1,5 +1,7 @@
 # EC1B1-raw-data
 
+```output
+/
 ├── README.md
 └── data/
     └── raw/
@@ -13,3 +15,4 @@
         │   └── *.csv
         └── raw_data_US/
             └── *.csv
+```
